@@ -19,3 +19,35 @@ $navbar-default-bg: #4c294b;
 ul.navbar-nav>li>a {
 	color: #ffffff !important;
 }
+
+div.jumbotron {
+	background-color: #81399e !important;
+	height: 495px;
+}
+
+.jumbotron h1 {
+	color: #fff;
+	margin-top: 135px; 
+}
+
+footer {
+	padding-top: 5px;
+	border-top: 1px #eaeaea solid;
+}
+
+footer a:hover {
+	color: #222;
+}
+
+footer small {
+	float: left;
+}
+footer ul {
+	list-style-type: none;
+	float: right;
+}
+
+footer ul>li {
+	float: left;
+	margin-left: 15px; 
+}
