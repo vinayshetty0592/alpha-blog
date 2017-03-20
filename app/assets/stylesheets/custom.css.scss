@@ -30,28 +30,6 @@ div.jumbotron {
 	margin-top: 135px; 
 }
 
-footer {
-	padding-top: 5px;
-	border-top: 1px #eaeaea solid;
-}
-
-footer a:hover {
-	color: #222;
-}
-
-footer small {
-	float: left;
-}
-footer ul {
-	list-style-type: none;
-	float: right;
-}
-
-footer ul>li {
-	float: left;
-	margin-left: 15px; 
-}
-
 .article-actions {
 	border-top: 1px solid #eaeaea;
 	padding-top: 5px;
@@ -75,4 +53,31 @@ footer ul>li {
 	border-top: 1px solid #eaeaea;
 	padding-top: 15px;
 	padding-bottom: 15px;
+}
+
+.listing {
+	list-style: none;
+	padding-left: 15px;
+}
+
+footer {
+	padding-top: 5px;
+	border-top: 1px #eaeaea solid;
+}
+
+footer a:hover {
+	color: #222;
+}
+
+footer small {
+	float: left;
+}
+footer ul {
+	list-style-type: none;
+	float: right;
+}
+
+footer ul>li {
+	float: left;
+	margin-left: 15px; 
 }
